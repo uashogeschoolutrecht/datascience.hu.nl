@@ -5,7 +5,7 @@ on:
     branches: [ master ]
 
 jobs:
-  build:
+  build_and_export:
 
     runs-on: ubuntu-latest
 
