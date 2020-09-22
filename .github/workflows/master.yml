@@ -25,3 +25,4 @@ jobs:
         key: ${{ secrets.GH_ANSIBLE_PRIVATE_KEY }}
         source: ${{ github.workspace }}/_site
         target: "/srv/github/docs-hpc"
+        strip_components: 3
