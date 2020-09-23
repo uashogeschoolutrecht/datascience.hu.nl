@@ -3,3 +3,7 @@ _site
 .jekyll-cache
 .jekyll-metadata
 vendor
+.Rproj.user
+.Rhistory
+Rmd
+docs-hpc.Rproj
