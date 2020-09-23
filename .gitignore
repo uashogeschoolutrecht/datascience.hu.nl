@@ -7,3 +7,4 @@ vendor
 .Rhistory
 Rmd
 docs-hpc.Rproj
+Gemfile.lock
