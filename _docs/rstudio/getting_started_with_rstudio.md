@@ -2,6 +2,7 @@
 layout: default
 title: Getting Started with RStudio
 parent: RStudio
+nav_order: 2
 ---
 
 
