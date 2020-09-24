@@ -12,6 +12,7 @@ bundle exec jekyll serve
 
 ## Site map
 
+```text
 +-- ..
 |-- (Jekyll files)
 |
@@ -36,3 +37,4 @@ bundle exec jekyll serve
 |
 |-- (Jekyll files)
 +-- ..
+```
