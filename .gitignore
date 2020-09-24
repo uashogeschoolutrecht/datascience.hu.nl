@@ -9,3 +9,5 @@ Rmd
 *.Rmd
 docs-hpc.Rproj
 Gemfile.lock
+gettingstarted.md
+introrstudio.md
