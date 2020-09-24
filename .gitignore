@@ -6,5 +6,6 @@ vendor
 .Rproj.user
 .Rhistory
 Rmd
+*.Rmd
 docs-hpc.Rproj
 Gemfile.lock
