@@ -4,8 +4,9 @@
 
 
 
-dir_out <- here::here()
+
 dir_in <- here::here()
+dir_out <- here::here("_docs", "rstudio")
 
 list_rmd <- list.files(dir_in, 
                                      pattern = ".Rmd",
@@ -16,7 +17,7 @@ render_all <- function(x){
   
   rmarkdown::render(input = x, 
                     output_dir = dir_out,
-                    output_format = "md_document")
+                    rmarkdown::md_document(preserve_yaml = TRUE))
 }
 
 purrr::walk(

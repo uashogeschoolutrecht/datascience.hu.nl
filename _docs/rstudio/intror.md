@@ -1,3 +1,12 @@
+---
+layout: default
+title: Getting started with R
+parent: RStudio
+nav_order: 3
+output: md_document 
+always_allow_html: true
+---
+
     library(tidyverse)
 
 Introduction course
@@ -71,7 +80,7 @@ Example data
 
     ## `stat_bin()` using `bins = 30`. Pick better value with `binwidth`.
 
-![](C:/Users/mteunis/workspaces/docs-hpc/intror_files/figure-markdown_strict/unnamed-chunk-5-1.png)
+![](C:/Users/mteunis/workspaces/docs-hpc/_docs/rstudio/intror_files/figure-markdown_strict/unnamed-chunk-5-1.png)
 
     ## change the `bins` argument to see what happens
 
@@ -213,7 +222,7 @@ When calling a function you can explicitly `name` an argument by using
     q <- rnorm(n = 10000, mean = 20, sd = 2)
     hist(q)
 
-![](C:/Users/mteunis/workspaces/docs-hpc/intror_files/figure-markdown_strict/unnamed-chunk-11-1.png)
+![](C:/Users/mteunis/workspaces/docs-hpc/_docs/rstudio/intror_files/figure-markdown_strict/unnamed-chunk-11-1.png)
 
 If you ommit naming an argument, the function still works, but the code
 is harder to read for a human.
@@ -447,7 +456,7 @@ vector, but is an atomic value, usually used as ‘zero-length’ vector.
 
 <!--html_preserve-->
 
-<script type="application/json" data-for="htmlwidget-8e1fe96c0688a849169a">{"x":{"diagram":"\ndigraph rmarkdown {\n  \"Atomic\" -> \"Vector\"\n  \"List\" -> \"Vector\" \n  \"NULL\"\n}\n","config":{"engine":"circo","options":null}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-fbc9973e359619ea20b8">{"x":{"diagram":"\ndigraph rmarkdown {\n  \"Atomic\" -> \"Vector\"\n  \"List\" -> \"Vector\" \n  \"NULL\"\n}\n","config":{"engine":"circo","options":null}},"evals":[],"jsHooks":[]}</script>
 <!--/html_preserve-->
 <p class="caption">
 Elementary building blocks in R
@@ -481,7 +490,7 @@ subdived.
 
 <!--html_preserve-->
 
-<script type="application/json" data-for="htmlwidget-bb3486349adfa5d821dc">{"x":{"diagram":"\ndigraph rmarkdown {\n  \"Atomic vectors\" -> \"Numeric \n (including `Inf`, `-Inf` \n and `NaN`)\"\n  \"NULL\"\n  \"Atomic vectors\" -> \"Logical \n (including NA)\" \n  \"Atomic vectors\" -> Character\n  \"Numeric \n (including `Inf`, `-Inf` \n and `NaN`)\" -> Integer\n  \"Numeric \n (including `Inf`, `-Inf` \n and `NaN`)\" -> Double\n  \"Recursive vectors\" -> List\n  \"List\" -> Dataframe\n  \"Dataframe\" -> Tibble \n  \"Date\" -> \"Double\"\n  \"Date-Time\" -> \"Double\"\n  \"Factor\" -> \"Integer\"\n}\n","config":{"engine":"circo","options":null}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-fc9c72093435cc6a0a18">{"x":{"diagram":"\ndigraph rmarkdown {\n  \"Atomic vectors\" -> \"Numeric \n (including `Inf`, `-Inf` \n and `NaN`)\"\n  \"NULL\"\n  \"Atomic vectors\" -> \"Logical \n (including NA)\" \n  \"Atomic vectors\" -> Character\n  \"Numeric \n (including `Inf`, `-Inf` \n and `NaN`)\" -> Integer\n  \"Numeric \n (including `Inf`, `-Inf` \n and `NaN`)\" -> Double\n  \"Recursive vectors\" -> List\n  \"List\" -> Dataframe\n  \"Dataframe\" -> Tibble \n  \"Date\" -> \"Double\"\n  \"Date-Time\" -> \"Double\"\n  \"Factor\" -> \"Integer\"\n}\n","config":{"engine":"circo","options":null}},"evals":[],"jsHooks":[]}</script>
 <!--/html_preserve-->
 <p class="caption">
 All important R objects in one graph
@@ -872,7 +881,7 @@ will be explained in detail in Chapter @ref(lab2viz)
       ggplot(aes(x = value)) +
       geom_density()
 
-![](C:/Users/mteunis/workspaces/docs-hpc/intror_files/figure-markdown_strict/unnamed-chunk-41-1.png)
+![](C:/Users/mteunis/workspaces/docs-hpc/_docs/rstudio/intror_files/figure-markdown_strict/unnamed-chunk-41-1.png)
 
 Imagine we want to pull out all numbers from the `hundred` vector that
 are larger than 0. To do this we can use the index. First we create a
@@ -910,7 +919,7 @@ you expected is always a good idea. *You can not make too many plots!*
       ggplot(aes(x = value)) +
       geom_density()
 
-![](C:/Users/mteunis/workspaces/docs-hpc/intror_files/figure-markdown_strict/unnamed-chunk-44-1.png)
+![](C:/Users/mteunis/workspaces/docs-hpc/_docs/rstudio/intror_files/figure-markdown_strict/unnamed-chunk-44-1.png)
 
     ## or a scatter
     larger_than_zero_values %>%
@@ -918,7 +927,7 @@ you expected is always a good idea. *You can not make too many plots!*
       ggplot(aes(x = value, y = name)) +
       geom_point()
 
-![](C:/Users/mteunis/workspaces/docs-hpc/intror_files/figure-markdown_strict/unnamed-chunk-44-2.png)
+![](C:/Users/mteunis/workspaces/docs-hpc/_docs/rstudio/intror_files/figure-markdown_strict/unnamed-chunk-44-2.png)
 
 Indeed, no point is equal or smaller than zero. There is one bordeline
 case. Can you spot it? **DISCUSS with your neighbour if you can locate
@@ -939,7 +948,7 @@ We can make it visible by a neat filtering trick:
                  shape = 21, 
                  alpha = 0.6)
 
-![](C:/Users/mteunis/workspaces/docs-hpc/intror_files/figure-markdown_strict/unnamed-chunk-45-1.png)
+![](C:/Users/mteunis/workspaces/docs-hpc/_docs/rstudio/intror_files/figure-markdown_strict/unnamed-chunk-45-1.png)
 
 We can pull out this value from the &gt;0 vector by it’s position (40th
 element) `larger_than_zero_values`
