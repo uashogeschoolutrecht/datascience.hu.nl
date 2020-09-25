@@ -9,7 +9,7 @@ aux_links:
 
 # Footer content 
 # appears at the bottom of every page's main content
-footer_content: "Copyright &copy; Hogeschool Utrecht."
+footer_content: "CC BY-NC 4.0 Hogeschool Utrecht."
 
 # Footer "Edit this page on GitHub" link text
 gh_edit_link: true
