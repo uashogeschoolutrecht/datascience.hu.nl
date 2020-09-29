@@ -1,10 +1,9 @@
-## render all Rmd in root to md
-
-## renders multiple R-markdown files
+#'Render all Rmd in a dir to md documents
 
 render_active_to_markdown <- function(
   dir_in = here::here("Rmd", "active"), 
-  dir_out = here::here("_docs", "rstudio")
+  dir_out = here::here("_docs", "rstudio"),
+  ...
   ){
 
   list_rmd <- list.files(
@@ -32,3 +31,14 @@ purrr::walk(
 )
 
 }
+
+#' Serve jekyll site
+#' Run this function as a Job in RStudio
+
+serve_jekyll_site_local <- function(){
+  
+  system("bundle exec jekyll serve")
+  
+
+}
+
