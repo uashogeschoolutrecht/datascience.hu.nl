@@ -26,3 +26,5 @@ jobs:
         source: ${{ github.workspace }}/_site
         target: "/srv/github/docs-hpc"
         strip_components: 3
+        rm: true
+
