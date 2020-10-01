@@ -3,6 +3,12 @@
 source(
   here::here(
     "code",
-    "helpers.R"
+    "render_all_rmd.R"
   ))
 
+
+source(
+  here::here(
+    "code",
+    "render_all.R"
+  ))

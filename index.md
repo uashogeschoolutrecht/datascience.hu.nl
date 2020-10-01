@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Home
+has_children: true
 ---
 
 Welcome to the documentation pages of the HU Research Cloud.
