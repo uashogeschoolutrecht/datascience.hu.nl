@@ -333,8 +333,8 @@ sampled from a normal distribution (using a function call to `rnorm()`).
     x <- rnorm(n = 10)
     x
 
-    ##  [1] -0.56047565 -0.23017749  1.55870831  0.07050839  0.12928774  1.71506499  0.46091621 -1.26506123
-    ##  [9] -0.68685285 -0.44566197
+    ##  [1] -0.56047565 -0.23017749  1.55870831  0.07050839  0.12928774  1.71506499  0.46091621
+    ##  [8] -1.26506123 -0.68685285 -0.44566197
 
 If we want to apply mean to this vector `x` of 10 numbers we can do so
 by calling `mean()` on `x`
@@ -376,8 +376,8 @@ and 6.
     x[c(3,6)] = NA
     x
 
-    ##  [1] -0.56047565 -0.23017749          NA  0.07050839  0.12928774          NA  0.46091621 -1.26506123
-    ##  [9] -0.68685285 -0.44566197
+    ##  [1] -0.56047565 -0.23017749          NA  0.07050839  0.12928774          NA  0.46091621
+    ##  [8] -1.26506123 -0.68685285 -0.44566197
 
 What happens if we apply `mean()` to our new `x` containing two `NA`
 values.
@@ -455,7 +455,7 @@ vector, but is an atomic value, usually used as ‘zero-length’ vector.
 
 <!--html_preserve-->
 
-<script type="application/json" data-for="htmlwidget-983315589fed18d622a7">{"x":{"diagram":"\ndigraph rmarkdown {\n  \"Atomic\" -> \"Vector\"\n  \"List\" -> \"Vector\" \n  \"NULL\"\n}\n","config":{"engine":"circo","options":null}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-04ad6512cc772851323e">{"x":{"diagram":"\ndigraph rmarkdown {\n  \"Atomic\" -> \"Vector\"\n  \"List\" -> \"Vector\" \n  \"NULL\"\n}\n","config":{"engine":"circo","options":null}},"evals":[],"jsHooks":[]}</script>
 <!--/html_preserve-->
 <p class="caption">
 Elementary building blocks in R
@@ -489,7 +489,7 @@ subdived.
 
 <!--html_preserve-->
 
-<script type="application/json" data-for="htmlwidget-6f1d8b9e786d9d3fe28d">{"x":{"diagram":"\ndigraph rmarkdown {\n  \"Atomic vectors\" -> \"Numeric \n (including `Inf`, `-Inf` \n and `NaN`)\"\n  \"NULL\"\n  \"Atomic vectors\" -> \"Logical \n (including NA)\" \n  \"Atomic vectors\" -> Character\n  \"Numeric \n (including `Inf`, `-Inf` \n and `NaN`)\" -> Integer\n  \"Numeric \n (including `Inf`, `-Inf` \n and `NaN`)\" -> Double\n  \"Recursive vectors\" -> List\n  \"List\" -> Dataframe\n  \"Dataframe\" -> Tibble \n  \"Date\" -> \"Double\"\n  \"Date-Time\" -> \"Double\"\n  \"Factor\" -> \"Integer\"\n}\n","config":{"engine":"circo","options":null}},"evals":[],"jsHooks":[]}</script>
+<script type="application/json" data-for="htmlwidget-b407a3c3e340dfa9a37a">{"x":{"diagram":"\ndigraph rmarkdown {\n  \"Atomic vectors\" -> \"Numeric \n (including `Inf`, `-Inf` \n and `NaN`)\"\n  \"NULL\"\n  \"Atomic vectors\" -> \"Logical \n (including NA)\" \n  \"Atomic vectors\" -> Character\n  \"Numeric \n (including `Inf`, `-Inf` \n and `NaN`)\" -> Integer\n  \"Numeric \n (including `Inf`, `-Inf` \n and `NaN`)\" -> Double\n  \"Recursive vectors\" -> List\n  \"List\" -> Dataframe\n  \"Dataframe\" -> Tibble \n  \"Date\" -> \"Double\"\n  \"Date-Time\" -> \"Double\"\n  \"Factor\" -> \"Integer\"\n}\n","config":{"engine":"circo","options":null}},"evals":[],"jsHooks":[]}</script>
 <!--/html_preserve-->
 <p class="caption">
 All important R objects in one graph
@@ -746,10 +746,10 @@ What happens if we combine different types of data in one vector?
     vector <- c(1:10, NA, NA, NA,  3, "Python is great!", "R is greater!")
     vector
 
-    ##  [1] "1"                "2"                "3"                "4"                "5"               
-    ##  [6] "6"                "7"                "8"                "9"                "10"              
-    ## [11] NA                 NA                 NA                 "3"                "Python is great!"
-    ## [16] "R is greater!"
+    ##  [1] "1"                "2"                "3"                "4"               
+    ##  [5] "5"                "6"                "7"                "8"               
+    ##  [9] "9"                "10"               NA                 NA                
+    ## [13] NA                 "3"                "Python is great!" "R is greater!"
 
     is.character(vector)
 
@@ -859,8 +859,8 @@ To get the third and then the first ten elements of the `hundred` vector
 
     hundred[c(1:10)]
 
-    ##  [1] -0.56047565 -0.23017749  1.55870831  0.07050839  0.12928774  1.71506499  0.46091621 -1.26506123
-    ##  [9] -0.68685285 -0.44566197
+    ##  [1] -0.56047565 -0.23017749  1.55870831  0.07050839  0.12928774  1.71506499  0.46091621
+    ##  [8] -1.26506123 -0.68685285 -0.44566197
 
 So you see from this example: we can use a vector to index a vector.
 Let’s elaborate on that.

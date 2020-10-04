@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Spyder Python
-has_children: true  
+has_children: true
+published: false
 ---
 
 If you already have an Spyder Python workspace, go to `https://datascience.hu.nl/rstudio/{project_name}`.

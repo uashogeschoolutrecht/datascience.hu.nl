@@ -12,6 +12,33 @@ bundle exec jekyll serve
 
 ## Site map
 
+
+```text
+
+|-- Home
+|   |-- Jupyter
+|   |   |-- index.md  (parent page)
+|   |   |-- buttons.md
+|   |   |-- code.md
+|   |   |-- labels.md
+|   |   |-- tables.md
+|   |   +-- typography.md
+|   |
+|   |-- 
+|   |   |-- index.md      (parent page)
+|   |   |-- color.md
+|   |   |-- layout.md
+|   |   |-- responsive-modifiers.md
+|   |   +-- typography.md
+|   |
+|   |-- (other md files, pages with no children)
+|   +-- ..
+|
+|-- index.md
++-- ..
+```
+
+
 ```text
 +-- ..
 |-- (Jekyll files)
