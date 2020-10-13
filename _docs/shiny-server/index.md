@@ -1,6 +1,6 @@
 ---
 layout: default
-title: RStudio Shiny Server
+title: Shiny Server
 has_children: true
 ---
 
