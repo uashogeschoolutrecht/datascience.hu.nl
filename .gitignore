@@ -11,3 +11,4 @@ docs-hpc.Rproj
 Gemfile.lock
 gettingstarted.md
 introrstudio.md
+.DS_Store
