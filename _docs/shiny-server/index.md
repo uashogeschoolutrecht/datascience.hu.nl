@@ -2,7 +2,6 @@
 layout: default
 title: RStudio Shiny Server
 has_children: true
-published: false
 ---
 
 If you already have an Shiny Server workspace, go to `https://datascience.hu.nl/shiny/{project_name}`.
