@@ -2,7 +2,7 @@
 layout: default
 title: Enable nbgrader plugin 
 parent: Jupyter
-nav_order: 3
+nav_order: 2
 ---
 
 You can create graded assignments for your students and distribute them on the server
