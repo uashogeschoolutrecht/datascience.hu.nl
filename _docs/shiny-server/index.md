@@ -4,8 +4,5 @@ title: Shiny Server
 has_children: true
 ---
 
-If you already have an Shiny Server workspace, go to `https://datascience.hu.nl/shiny/{project_name}`.
-
-If you would like to get an Shiny Server workspace on HU Research Cloud you can apply for one [here](https://askhu.sharepoint.hu.nl/informatie-items/Paginas/Data-analyse-omgeving-aanvragen.aspx).
-
-If you like to learn more: [Sent a mail to onderzoeksupport](onderzoeksupport@hu.nl)
+Shiny Server enables users to host and manage Shiny applications on the Internet. Shiny is an R package that uses a reactive programming model to simplify the development of R-powered web applications. Shiny Server can manage R processes running various Shiny applications over different URLs and ports.
+You would usually add shiny alongside an RStudio workspace.
