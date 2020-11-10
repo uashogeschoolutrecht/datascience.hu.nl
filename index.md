@@ -7,7 +7,7 @@ has_children: true
 
 ## Research Cloud
 
-The research cloud provides data analysis workspaces for academic courses and research projects at Hogeschool Utrecht. Its goal is to facilitate education in courses that require collaborative programing and complex data analysis. In addition, it aims to ease access  to increased computational power for researchers, most of which are limited by what their personal machine can offer.
+The research cloud provides data analysis workspaces for academic courses and research projects at Hogeschool Utrecht. Its goal is to facilitate education in courses that require collaborative programing and complex data analysis. In addition, it aims to facilitate access to increased computational power for researchers, freeing them from the limits of their personal machine.
 
 ## Applying for a Workspace
 
