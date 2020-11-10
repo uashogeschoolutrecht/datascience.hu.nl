@@ -1,7 +1,7 @@
 ---
 layout: default
 title: System Overview
-parent: General
+parent: Home
 nav_order: 1
 ---
 

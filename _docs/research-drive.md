@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Connecting to HU ResearchDrive
-parent: General
+parent: Home
 nav_order: 2
 ---
 

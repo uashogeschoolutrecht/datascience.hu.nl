@@ -2,8 +2,7 @@
 layout: default
 title: Usage agreement
 parent: Home
-nav_order: 1
-has_children: false  
+nav_order: 3
 ---
 
 ## USAGE AGREEMENT HU VRE Systems and Services
