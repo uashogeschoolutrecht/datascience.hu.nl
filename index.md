@@ -15,7 +15,7 @@ If you would like to get a workspace on the HU Research Cloud you can apply for 
 
 ## Connecting to a Workspace
 
-You can access a workspace using this addressing scheme `https://datascience.hu.nl/{workspace_type}/{project_name}`. For example, the URL for a `Jupyter` workspace running the project `addb-pm` is `https://datascience.hu.nl/jupyter/addb-pm`.
+You can access a workspace using this addressing scheme `https://datascience.hu.nl/{workspace_type}/{project_name}`. For example, the URL for a `Jupyter` workspace running the project `foo-bar` is `https://datascience.hu.nl/jupyter/foo-bar`.
 
 ## Contact
 
