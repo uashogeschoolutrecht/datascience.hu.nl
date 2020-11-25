@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Shiny Server
+title: Shiny
 has_children: true
 ---
 
