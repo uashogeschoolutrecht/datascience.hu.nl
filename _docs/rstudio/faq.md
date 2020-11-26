@@ -16,7 +16,7 @@ You cannot login using your account because of a faulty session on the server.
 - Delete the active session in your user account by removing the `~/.rstudio/` and `~/.Rhistory/` folders.
 
 ```shell
-rm -r ~/.rstudio/ ~/.Rhistory/
+rm -rf ~/.rstudio/ ~/.Rhistory/
 ```
 
 If the issue still persists, you might be having problems with your R dependencies.
@@ -24,5 +24,5 @@ If the issue still persists, you might be having problems with your R dependenci
 - Delete the `~/R/` library folder.
 
 ```shell
-rm -r ~/R/
+rm -rf ~/R/
 ```
