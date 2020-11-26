@@ -11,7 +11,7 @@ This is a list of the most common questions or issues that our users encounter.
 
 ### Setup SSH access to your workspace
 
-- Generate an ssh key pair using `ssh-keygen -t ed25519 -C "<comment>"`.
+- Generate an ssh key pair using `ssh-keygen -t ed25519 -C "<comment>"` in a terminal. This will create a key pair in a `.ssh` folder in your home directory.
 - Create an `authorized_keys` file under `~/.ssh/` in your workspace.
 - Add your **public** ssh key to the `authorized_keys` file.
 - Acquire the public IP address of your workspace by running `curl ifconfig.me` in a terminal.
