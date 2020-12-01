@@ -34,5 +34,5 @@ He can then use `mount ~/research-drive` to connect the drive.
 A user can quickly add his SSH **public key** to his workspace by using the `add_ssh_key.sh` user script.
 
 ```shell
-/srv/user/scripts/add_ssh_key my-public-key
+/srv/user/scripts/add_ssh_key.sh my-public-key
 ```
