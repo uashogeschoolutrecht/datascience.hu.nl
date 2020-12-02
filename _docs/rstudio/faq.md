@@ -26,3 +26,5 @@ If the issue still persists, you might be having problems with your R dependenci
 ```shell
 rm -rf ~/R/
 ```
+
+- Make sure you have enough resources on the server. Check your current usage using `htop`.
