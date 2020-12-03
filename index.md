@@ -5,13 +5,13 @@ has_children: true
 ---
 
 
-## Research Cloud
+## Virtual Research Environment
 
-The research cloud provides data analysis workspaces for academic courses and research projects at Hogeschool Utrecht. Its goal is to facilitate education in courses that require collaborative programing and complex data analysis. In addition, it aims to facilitate access to increased computational power for researchers, freeing them from the limits of their personal machine.
+The virtual research environment provides data analysis workspaces for academic courses and research projects at Hogeschool Utrecht. Its goal is to facilitate education in courses that require collaborative programing and complex data analysis. In addition, it aims to facilitate access to increased computational power for researchers, freeing them from the limits of their personal machine.
 
 ## Applying for a Workspace
 
-If you would like to get a workspace on the HU Research Cloud you can apply for one [here](https://askhu.sharepoint.hu.nl/informatie-items/Paginas/Data-analyse-omgeving-aanvragen.aspx).
+If you would like to get a workspace in the research environment you can apply for one [here](https://askhu.sharepoint.hu.nl/informatie-items/Paginas/Data-analyse-omgeving-aanvragen.aspx).
 
 ## Connecting to a Workspace
 
