@@ -7,8 +7,8 @@ nav_order: 1
 
 ## Jupyter admin
 
-When you sign up with your admin username for the first time, the password that you use will
-be the new password of your account. You can then sign in with those credentials to your workspace.
+When you first access your workspace, you need to sign up with your admin username. The password that you use will
+be the new password of your account. You can then go back and sign in with those credentials to your workspace.
 
 ### Authorize users
 
