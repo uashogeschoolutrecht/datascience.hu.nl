@@ -4,6 +4,7 @@ title: Home
 has_children: true
 ---
 
+{% include banner.html %}
 
 ## Virtual Research Environment
 
