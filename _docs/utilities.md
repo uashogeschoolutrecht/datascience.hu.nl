@@ -26,7 +26,7 @@ The `webdav` credentials can be specified once in `~/.davfs2/secrets`.
 He can then use `mount ~/research-drive` to connect the drive.
 
 ```shell
-/srv/admin/scripts/setup_research_drive_mount.sh user-1
+sudo /srv/admin/scripts/setup_research_drive_mount.sh user-1
 ```
 
 ### Add ssh public key
