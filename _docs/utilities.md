@@ -29,7 +29,7 @@ You can setup a Research Drive mount point for a user on the system by running t
 
 The drive owner needs to generate an access token from the research drive portal.
 The `webdav` credentials can be specified once in `~/.davfs2/secrets`.
-He can then use `mount ~/research-drive` to connect the drive.
+You can then use `mount ~/research-drive` to connect the drive.
 
 ```shell
 sudo /srv/admin/scripts/setup_research_drive_mount.sh user-1
@@ -37,7 +37,7 @@ sudo /srv/admin/scripts/setup_research_drive_mount.sh user-1
 
 ### Add ssh public key
 
-A user can quickly add you SSH **public key** to a workspace by using the `add_ssh_key.sh` user script.
+A user can quickly add an SSH **public key** to a workspace by using the `add_ssh_key.sh` user script.
 For more information on setting up SSH access to a machine yourself, [click here](/docs/faq/#setup-ssh-access-to-your-workspace).
 
 ```shell
