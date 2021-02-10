@@ -21,3 +21,7 @@ You can access a workspace using this addressing scheme `https://datascience.hu.
 ## Contact
 
 If you have questions about these pages or if you would like to contribute please send us an [email](mailto:onderzoeksupport@hu.nl)
+
+## Blog
+
+Check out `https://datascience.hu.nl/blog` for video's, tips and tricks regarding our workspaces.
