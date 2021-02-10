@@ -24,4 +24,4 @@ If you have questions about these pages or if you would like to contribute pleas
 
 ## Blog
 
-Check out `https://datascience.hu.nl/blog` for video's, tips and tricks regarding our workspaces.
+Check out [www.datascience.hu.nl/blog](https://datascience.hu.nl/blog) for video's, tips and tricks regarding our workspaces.
