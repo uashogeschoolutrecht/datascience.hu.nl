@@ -2,7 +2,7 @@
 layout: default
 title: FAQ
 parent: HU Research Cloud
-nav_order: 10
+nav_order: 11
 ---
 
 ## Frequently Asked Questions
