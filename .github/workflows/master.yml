@@ -16,15 +16,3 @@ jobs:
         docker run \
         -v ${{ github.workspace }}:/srv/jekyll -v ${{ github.workspace }}/_site:/srv/jekyll/_site \
         jekyll/builder:latest /bin/bash -c "chmod 777 /srv/jekyll && jekyll build --future"
-
-    - name: Copy site to ansible
-      uses: appleboy/scp-action@master
-      with:
-        host: ${{ secrets.ANSIBLE_HOST }}
-        username: github
-        key: ${{ secrets.GH_ANSIBLE_PRIVATE_KEY }}
-        source: ${{ github.workspace }}/_site
-        target: "/srv/github/docs-hpc"
-        strip_components: 3
-        rm: true
-
