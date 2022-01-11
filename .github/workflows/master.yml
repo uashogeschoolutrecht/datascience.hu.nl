@@ -20,5 +20,5 @@ jobs:
     - name: Archive code to repository
       uses: actions/upload-artifact@v2
       with:
-        source: ${{ github.workspace }}/_site
-        path: output/test/
+        path: ${{ github.workspace }}/_site
+
