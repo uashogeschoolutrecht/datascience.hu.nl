@@ -1,7 +1,7 @@
 ---
 layout: default
 title: R-studio Connect
-has_children: false
+has_children: true
 ---
 
 ## R-studio Connect
