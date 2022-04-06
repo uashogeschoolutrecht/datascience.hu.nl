@@ -1,6 +1,6 @@
 # Landing page of the HU Research Cloud
 
-User documentation for the virtual research environment.
+User documentation for the virtual research environment for datascience and collaboration.
 
 ## Run site locally
 
@@ -12,8 +12,8 @@ bundle exec jekyll serve
 
 ## Deployment
 
-All changes to master are automatically built using GitHub actions and pushed to our ansible control node.
-In order to publish the changes, the output files need to be copied to the gateway machines using ansible.
+All changes to master are automatically built using GitHub actions and stored as an artifact.
+In order to publish the changes, the output files need to be copied to the azure storage blob. 
 
 ## Site map
 
