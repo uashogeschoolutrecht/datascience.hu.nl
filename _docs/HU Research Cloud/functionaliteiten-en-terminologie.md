@@ -93,4 +93,4 @@ Onderzoekers die aan een onderzoekssamenwerking deelnemen en toegang moeten krij
 •	hun profiel beheren, zoals zien tot welke diensten ze toegang hebben en SSH-keys uploaden om die eenvoudig en automatisch te synchroniseren op alle betreffende systemen
 •	snel toegang krijgen tot diensten die ze nodig hebben voor hun onderzoek(en)
 
-De collaboratie wordt beheerd door de leider van het onderzoek. Indien ondersteuning vanuit Team Digitale Onderzoeksomgeving gewenst is, bijvoorbeeld in de vorm van installeren plug-ins, etc. voeg dan onze collega's Nick Borsboom [(nick.borsboom@hu.nl)](mailto:nick.borsboom@hu.nl) en Rins Rutgers [(rins.rutgers@hu.nl)](mailto:rins.rutgers@hu.nl) toe als admin. Standaard hebben wij geen toegang tot jouw machines.
+De collaboratie wordt beheerd door de leider van het onderzoek. Indien ondersteuning vanuit Team Digitale Onderzoeksomgeving gewenst is, bijvoorbeeld in de vorm van installeren plug-ins, etc. voeg dan onze Rins Rutgers [(rins.rutgers@hu.nl)](mailto:rins.rutgers@hu.nl) toe als admin. Standaard hebben wij geen toegang tot jouw machines.

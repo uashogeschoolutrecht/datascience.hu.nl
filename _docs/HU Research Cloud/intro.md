@@ -1,11 +1,11 @@
 ---
 layout: default
-title: Inleiding
+title: Wat is HU Research Cloud
 parent: HU Research Cloud
 nav_order: 1
 ---
 
-# Inleiding
+# Wat is HU Research Cloud
 
 De HU Research Cloud is een portaal voor onderzoekers om snel hun eigen virtuele onderzoekomgeving op te zetten. Het is een dienst die initieel wordt aangeboden door SURF. Team Digitaal Onderzoek (DO) voorziet hierin in voorgeconfigureerde ‘workspaces’ die als gebruiksklare softwareoplossing te gebruiken zijn. Start eenvoudig een RStudio Server of JupyterHub inclusief ‘dependencies’ en ga na het initiële opstarten direct aan de slag in de browser interface. Daarnaast is het zeer eenvoudig voor alle gekoppelde gebruikers binnen een samenwerkingsverband om in te loggen op de werkomgeving. SURF Research Cloud is geïntegreerd met [SURF Research Access Management.](https://www.surf.nl/surf-research-access-management-veilig-en-eenvoudig-toegang-tot-onderzoeksdiensten)
 

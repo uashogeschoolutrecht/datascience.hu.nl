@@ -6,4 +6,4 @@ nav_order: 3
 has_children: true
 ---
 
-x
+Hieronder wordt per onderdeel beschreven hoe je gebruik maakt van de verschillende onderdelen van HU Research Cloud. 

@@ -1,27 +1,17 @@
 ---
 layout: default
 title: Aanbod van de HU op Research Cloud
-grand_parent: HU Research Cloud
-parent: Hoe gebruik maken van Research Cloud?
+parent: HU Research Cloud
 nav_order: 6
+has_children: true
 ---
 
 # Aanbod van de HU op Research Cloud
 
-Als je een workspace start op Research Cloud zal het je opvallen dat je verschillende mogelijkheden hebt om uit te kiezen, alles met het HU logo wordt door ons ontwikkelt en dit zijn ook de enige catalogus items waar we ondersteuning op aan kunnen bieden.
+Als je een workspace start op Research Cloud zal het je opvallen dat je verschillende mogelijkheden hebt om uit te kiezen, alles met het HU logo wordt door ons ontwikkelt en dit zijn ook de enige catalogus items waar we ondersteuning op aan kunnen bieden. Klik hier links om het aanbod te zien. 
 
-![](/assets/haanbod-research-cloud-1.png)
+![](/assets/aanbod-research-cloud-1.png)
 
-## HU Jupyter HUB
+## Windows server
 
-Deze workspace kan gebruikt worden voor data-analyse met Python of R in Jupyter Notebooks. Tijdens het opstarten bij stap 6 krijg je een extra optie om een parameter in te voeren voor boot_volume_size, dit is de Operating System disk en kun je op bijvoorbeeld 50 GB zetten. 
-
-## HU R studio HU R studio server
-
-Deze workspace kan goed gebruikt worden voor mensen die Rstudio willen gebruiken voor hun Data Science taken. Tijdens het opstarten bij stap 6 krijg je een extra optie om een parameter in te voeren voor boot_volume_size, dit is de Operating System disk en kun je op bijvoorbeeld 50 GB zetten.
-
-## HU R studio server professional
-
-Dit is een evaluatie versie van Rstudio Server Professional, te gebruiken voor een periode van 40 dagen. Naast de normale versie van Rstudio sessie kun je hier ook kiezen voor Visual Studio Code en Jupyter notebooks. 
-
-Desktop omgeving
+Dit item wordt niet door de HU onderhouden maar kan voor onderzoekers een goede uitkomst bieden. Je krijgt na het starten van de workspace een Windows omgeving die er hetzelfde uit ziet als je HU laptop maar met alle ADMIN rechten, ideaal dus als je software wil installeren die niet wordt ondersteund door het software center. Daarnaast beschikt deze workspace over veel meer rekenkracht dan een HU laptop, en zal je code gewoon blijven draaien als je je eigen computer afsluit, omdat hij in de cloud draait. Ook deze workspace kun je makkelijk koppelen aan HU Reseach Drive.
