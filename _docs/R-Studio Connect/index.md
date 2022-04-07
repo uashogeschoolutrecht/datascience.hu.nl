@@ -19,4 +19,4 @@ R-Sstudio Connect helpt onder andere data science-teams snel impact te maken doo
 
 Hier kan je toegang krijgen tot <a href="https://rstudio-connect.hu.nl/connect/" class="uri">https://rstudio-connect.hu.nl/connect/</a>
 
- 
+![](/assets/rsconnect.png)
