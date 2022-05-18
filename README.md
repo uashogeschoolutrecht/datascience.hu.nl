@@ -1,6 +1,6 @@
-# Landing page of the HU Research Cloud
+# Landing page of Datascience.hu.nl
 
-User documentation for the virtual research environment.
+User documentation for the virtual research environment of the HU. 
 
 ## Run site locally
 
