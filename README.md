@@ -1,4 +1,4 @@
-# Landing page of Datascience.hu.nl
+ Aanpassing Appie  # Landing page of Datascience.hu.nl
 
 User documentation for the virtual research environment of the HU. 
 
