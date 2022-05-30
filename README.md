@@ -1,6 +1,7 @@
 # Landing page of Datascience.hu.nl
 
 User documentation for the virtual research environment of the HU. 
+Aanpassing Margreet
 
 ## Run site locally
 
