@@ -1,7 +1,8 @@
 ---
 layout: default
-title: HU Research Cloud
+title: Research Cloud
 has_children: true
+nav_order: 1
 ---
 
 ## HU Research Cloud
