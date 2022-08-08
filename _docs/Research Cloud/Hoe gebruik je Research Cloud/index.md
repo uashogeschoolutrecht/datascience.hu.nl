@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Hoe gebruik je research cloud
+title: Hoe gebruik ik Research Cloud
 has_children: true
 parent: Research Cloud
 nav_order: 3
