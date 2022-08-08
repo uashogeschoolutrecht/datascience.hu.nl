@@ -4,7 +4,7 @@ title: Lisa
 has_children: false
 ---
 
-## Rekencluster LISA
+## LISA
 Van surf.nl:
 
 Het Lisa Rekencluster biedt extra rekenkracht. Het is een centraal beheerd Linux-cluster, dat bij uitstek geschikt is voor grootschalige berekeningen. Je kunt je een clustercomputer voorstellen als een verzameling van gewone computers (ook wel nodes genoemd), die met elkaar zijn verbonden via netwerkkabels. Elke node heeft zijn eigen processor, geheugen en schijfruimte. Daarnaast hebben ze over het algemeen toegang tot een gedeeld bestandssysteem.

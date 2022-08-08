@@ -7,7 +7,7 @@ nav_order: 1
 ---
 
 
-## Indienen E-infra aanvraag
+## E-infra
 Via een e-infra aanvraag kan een contract worden afgesloten met SURF ten behoeve van een budget om een workspace te starten. 
 
 ### Voor wie

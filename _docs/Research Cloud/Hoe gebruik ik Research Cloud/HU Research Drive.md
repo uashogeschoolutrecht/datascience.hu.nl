@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Koppelen met Research Drive
+title: Koppelen met HU Research Drive
 parent: Hoe gebruik je research cloud
 grand_parent: Research Cloud
 nav_order: 3

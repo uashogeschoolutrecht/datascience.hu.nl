@@ -1,12 +1,12 @@
 ---
 layout: default
-title: Aanbod van verschillende workspaces
+title:  Aanbod verschillende workspaces van de HU
 has_children: true
 parent: Research Cloud
 nav_order: 4
 ---
 
-# Aanbod van de HU op Research Cloud
+# Aanbod verschillende workspaces van de HU
 
 Als je een workspace start op Research Cloud zal het je opvallen dat je verschillende mogelijkheden hebt om uit te kiezen, alles met het HU logo wordt door ons ontwikkelt en dit zijn ook de enige catalogus items waar we ondersteuning op aan kunnen bieden. Klik hier links om het aanbod te zien. 
 

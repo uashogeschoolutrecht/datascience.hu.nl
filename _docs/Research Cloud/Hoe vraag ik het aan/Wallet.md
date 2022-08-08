@@ -6,7 +6,7 @@ grand_parent: Research Cloud
 nav_order: 2
 ---
 
-## Wallets op Research Cloud
+## Wallet
 Wallets zijn het middel waarmee je je workspace op HU Research Cloud financieert. ‘Wallet’ is de Research Cloud term voor een bestaand budget. Het kan zijn dat je een budget hebt verkregen via een e-infra aanvraag of via een SURF contract. De gebruiker / onderzoeker kan dit budget gebruiken voor het laten draaien van een workspace. 
 
 ### Voor wie

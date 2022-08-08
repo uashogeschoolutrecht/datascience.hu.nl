@@ -6,7 +6,7 @@ grand_parent: Research Cloud
 nav_order: 2
 ---
 
-# Workspace gebruiken; toegang met Time Based Password
+# Toegang met Time Based Password
 
 Voor een volledige uitleg: [docs](https://servicedesk.surfsara.nl/wiki/display/WIKI/Log+in+to+your+workspace)
 
