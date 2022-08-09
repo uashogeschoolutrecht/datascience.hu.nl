@@ -6,7 +6,7 @@ has_children: true
 
 {% include banner.html %}
 
-## Data Science tools bij de Hogeschool Utrecht
+## Data Science tools bij Hogeschool Utrecht
 
 Data Science is een nieuw en belangrijk vakgebied. Het kent toepassingen in alle sectoren en organisaties. Met de steeds groeiende hoeveelheden data, bestaat er eveneens een grotere behoefte aan om deze data om te zetten in betekenisvolle informatie. Hoe creëer ik waarde uit data? Hoe ontdek ik trends en hoe signaleer ik relevante patronen in grote datasets om deze vervolgens te analyseren, interpreteren en visualiseren. 
 
