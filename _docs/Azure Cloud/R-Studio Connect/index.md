@@ -1,13 +1,13 @@
 ---
 layout: default
-title: R-studio Connect
+title: RStudio Connect
 parent: Azure Cloud
 has_children: false
 ---
 
 ## RStudio Connect
 
-RStudioConnect is een publicatieplatform voor gemaakt werk in R en Python. Met RStudioConnect kan je het volgende op één handige plek delen:
+RStudio Connect is een publicatieplatform voor gemaakt werk in R en Python. Met RStudio Connect kan je het volgende op één handige plek delen:
 
 -   Shiny applicaties
 -   R Markdown reports
@@ -16,8 +16,7 @@ RStudioConnect is een publicatieplatform voor gemaakt werk in R en Python. Met R
 -   Jupyter Notebooks
 -   Interactive Python content
 
-RStudio Connect helpt onder andere data science-teams snel impact te maken door hen in staat te stellen rapporten, modellen, dashboards en applicaties die in R en Python zijn gemaakt, te delen met belanghebbenden.
 
-Hier kan je toegang krijgen tot <a href="https://rstudio-connect.hu.nl/connect/" class="uri">https://rstudio-connect.hu.nl/connect/</a>
+Toegang tot RStudio Connect: <a href="https://rstudio-connect.hu.nl/connect/" class="uri">https://rstudio-connect.hu.nl/connect/</a>
 
 ![](/assets/rsconnect.png)

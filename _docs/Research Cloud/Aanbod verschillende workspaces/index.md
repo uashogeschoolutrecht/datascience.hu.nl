@@ -1,17 +1,12 @@
 ---
 layout: default
-title:  Aanbod verschillende workspaces van de HU
+title:  Aanbod workspaces van de HU op Research Cloud
 has_children: true
 parent: Research Cloud
 nav_order: 4
 ---
 
-# Aanbod verschillende workspaces van de HU
-
-Als je een workspace start op Research Cloud zal het je opvallen dat je verschillende mogelijkheden hebt om uit te kiezen, alles met het HU logo wordt door ons ontwikkelt en dit zijn ook de enige catalogus items waar we ondersteuning op aan kunnen bieden. Klik hier links om het aanbod te zien. 
+# Aanbod workspaces van de HU op Research Cloud
+Als je Research Cloud start zie je dat er verschillende mogelijkheden zijn voor het opstarten van een workspace. Alles met een HU logo is door team Digitale Onderzoeksomgeving ontwikkelt. Alleen op deze catalogus items bieden we ondersteuning. 
 
 ![](/assets/aanbod-research-cloud-1.png)
-
-## Windows server
-
-Dit item wordt niet door de HU onderhouden maar kan voor onderzoekers een goede uitkomst bieden. Je krijgt na het starten van de workspace een Windows omgeving die er hetzelfde uit ziet als je HU laptop maar met alle ADMIN rechten, ideaal dus als je software wil installeren die niet wordt ondersteund door het software center. Daarnaast beschikt deze workspace over veel meer rekenkracht dan een HU laptop, en zal je code gewoon blijven draaien als je je eigen computer afsluit, omdat hij in de cloud draait. Ook deze workspace kun je makkelijk koppelen aan HU Reseach Drive.

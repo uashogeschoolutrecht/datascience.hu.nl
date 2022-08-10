@@ -1,12 +1,21 @@
 ---
 layout: default
 title: Windows Server
-parent: Aanbod van verschillende workspaces
+parent: Aanbod workspaces van de HU op Research Cloud
 grand_parent: Research Cloud
 ---
 
 ## Windows Server
+Je krijgt na het starten van de workspace een Windows omgeving die er hetzelfde uit ziet als je HU laptop, met de volgende voordelen: 
 
-Dit item wordt niet door de HU onderhouden maar kan voor onderzoekers een goede uitkomst bieden. Je krijgt na het starten van de workspace een Windows omgeving die er hetzelfde uit ziet als je HU laptop maar met alle ADMIN rechten, ideaal dus als je software wil installeren die niet wordt ondersteund door het software center. Daarnaast beschikt deze workspace over veel meer rekenkracht dan een HU laptop, en zal je code gewoon blijven draaien als je je eigen computer afsluit, omdat hij in de cloud draait. Ook deze workspace kun je makkelijk koppelen aan HU Reseach Drive.
+-   Je hebt alle ADMIN rechten, ideaal dus als je software wil installeren die niet wordt ondersteund door het Software Center.  
+
+-   Deze workspace beschikt over veel meer rekenkracht dan een HU laptop 
+
+-   Je code gewoon blijft draaien als je de eigen computer afsluit, omdat hij in de cloud draait. 
+
+-   Ook deze workspace kun je makkelijk koppelen aan HU Research Drive. 
+
+Dit item wordt niet door de HU onderhouden maar kan voor de onderzoeker, gezien de voordelen, een goede uitkomst bieden.
 
 ![](/assets/windows.png)

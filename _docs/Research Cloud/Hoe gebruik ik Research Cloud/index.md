@@ -7,4 +7,4 @@ nav_order: 3
 ---
 
 ## Hoe gebruik ik Research Cloud
-Als eindgebruiker kun je op verschillende manieren toegang krijgen tot je werkplek in de Cloud. Hier leggen we alleen uit hoe je toegang krijgt via de browser. Als je op een andere manier toegang wil krijgen kun je terecht op de documentatie website van SURF.
+<!-- Als eindgebruiker kun je op verschillende manieren toegang krijgen tot je werkplek in de Cloud. Hier leggen we alleen uit hoe je toegang krijgt via de browser. Als je op een andere manier toegang wil krijgen kun je terecht op de documentatie website van SURF. -->
