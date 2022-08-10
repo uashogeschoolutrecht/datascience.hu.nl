@@ -7,7 +7,7 @@ nav_order: 3
 ---
 
 # SRAM
-SURF Research Access Management (SRAM) is een beheerapplicatie om onderzoekers snel en veilig toegang te geven tot onderzoeksdiensten: een samenwerkingsverband (“collaboration”) aanmaken, leden uitnodigen en onderzoeksdiensten koppelen. SRAM zorgt er dan automatisch voor dat accounts worden aangemaakt in de gekoppelde onderzoeksdiensten. Onderzoekers van deze onderzoekssamenwerking kunnen vervolgens met hun instellingsaccount inloggen bij de gekoppelde onderzoeksdiensten en toegang krijgen tot de diensten. 
+SURF Research Access Management (SRAM) is een beheerapplicatie om onderzoekers snel en veilig toegang te geven tot onderzoeksdiensten: een samenwerkingsverband (“collaboration”) aanmaken, leden uitnodigen en onderzoeksdiensten koppelen. SRAM zorgt er dan automatisch voor dat accounts worden aangemaakt in de gekoppelde onderzoeksdiensten. Onderzoekers van deze onderzoekssamenwerking kunnen vervolgens met hun instellingsaccount inloggen bij de gekoppelde onderzoeksdiensten.
 
 ## Wie / Rollen
 Per onderzoek is er een medewerker die de collaboration beheert.
@@ -21,7 +21,7 @@ SRAM kent twee rollen: beheerder en onderzoeker. Hieronder per rol een toelichti
 -	teamleden aan groepen binnen de CO (Collaborative Organization/Collaboration) toevoegen (b.v. voor autorisatie in gekoppelde onderzoeksdiensten) 
 -	zien wie welke toegang wanneer heeft toegekend
 
-### **leden** van onderzoekssamenwerkingen in SRAM kunnen:
+### **Leden** van onderzoekssamenwerkingen in SRAM kunnen:
 -	inloggen met hun instellingsaccount 
 -	gebruik maken van één van de gast-account-opties om in te loggen op de SRAM-omgeving
 -	kunnen meer dan één gast uitnodigen via eduid 
@@ -29,7 +29,7 @@ SRAM kent twee rollen: beheerder en onderzoeker. Hieronder per rol een toelichti
 -	snel toegang krijgen tot diensten die ze nodig hebben voor hun onderzoek(en)
 
 
-## Toegang krijgen tot een collaboration
+## Toegang krijgen tot een collaboration in SRAM
 Door de beheerder van SRAM (lid van Team Digitale Onderzoeksomgeving) wordt de onderzoeker voor een onderzoekssamenwerking uitgenodigd als Admin voor de samenwerking (CO). De onderzoeker (Admin) kan hier mensen aan toevoegen. 
 
 Zodra ze de uitnodiging hebben aanvaard en ingelogd zijn, worden automatisch accounts aangemaakt in de systemen waar de samenwerking (CO) toegang toe heeft en kan de onderzoeker met de systemen werken.

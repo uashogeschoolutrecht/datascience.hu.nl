@@ -30,5 +30,3 @@ Vul de aanvraag op de volgende manier in:
 -   **Remarks:** hier kun je eventuele opmerkingen plaatsten.
 
 Als onderzoeker kan je meerdere wallets aanvragen. Deze zijn doorgaans bedoeld voor verschillende projecten.
-
-
