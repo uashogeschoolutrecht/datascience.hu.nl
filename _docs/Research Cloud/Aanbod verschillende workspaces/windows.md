@@ -10,9 +10,9 @@ Je krijgt na het starten van de workspace een Windows omgeving die er hetzelfde 
 
 -   Je hebt alle ADMIN rechten, ideaal dus als je software wil installeren die niet wordt ondersteund door het Software Center.  
 
--   Deze workspace beschikt over veel meer rekenkracht dan een HU laptop 
+-   Deze workspace beschikt over veel meer rekenkracht dan een HU laptop.
 
--   Je code gewoon blijft draaien als je de eigen computer afsluit, omdat hij in de cloud draait. 
+-   Je code gewoon blijft draaien als je de eigen computer/laptop afsluit, omdat hij in de cloud draait. 
 
 -   Ook deze workspace kun je makkelijk koppelen aan HU Research Drive. 
 

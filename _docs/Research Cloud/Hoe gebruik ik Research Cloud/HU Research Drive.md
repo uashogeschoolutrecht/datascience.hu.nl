@@ -22,7 +22,7 @@ Dit kan in twee stappen: een  link maken in de juiste HU Research Drive en vervo
 
 -   Kies een app naam (bv: koppeling research cloud) en klik op create new password.  
 
--   Sla vervolgens je gebruikersnaam en wachtwoord en de link die er iets onder staat: `https://hu.data.surfsara.nl/remote.php/nonshib-webdav/` op om te gebruiken in stap 2 
+-   Sla vervolgens je gebruikersnaam en wachtwoord en de link die er iets onder staat: `https://hu.data.surfsara.nl/remote.php/nonshib-webdav/` op om te gebruiken in stap 2.
 
 **Let Op:** het kan voorkomen dat je meerdere gedeelde mappen in je hoofdmap hebt bij HU Research Drive. Als je bovenstaande URL gebruikt zal iedereen in de Collaboration toegang hebben tot al jouw mappen van HU Research Drive. Om dit te voorkomen gebruik je de mapnaam van de projectfolder na de URL, als de map die je wilt gebruiken projectmapvoorbeeld heet wordt dit dan: `https://hu.data.surfsara.nl/remote.php/nonshib-webdav/projectmapvoorbeeld`. Op die manier wordt alleen die map gekoppeld met de workspaces die je start.
 
@@ -30,12 +30,12 @@ Dit kan in twee stappen: een  link maken in de juiste HU Research Drive en vervo
 
 -   Ga naar de Collaboration in Research Cloud waar je de HU Research Drive aan wil koppelen.  
 
--   Klik op de knop “Drive Not Linked, click to link”  
+-   Klik op de knop “Drive Not Linked, click to link”.
 
--   Voer je username en wachtwoord (bij token) van stap 1 hierin 
+-   Voer je username en wachtwoord (bij token) van stap 1 hierin.
 
--   Het vinkje bovenaan uitvinken en de link van stap 1 hierboven daarin te vullen. 
+-   Het vinkje bovenaan uitvinken. Kopieer de link, genoemd onder stap 1, met de map naam van de project folder die je wilt koppelen, hierin.
 
-Vanaf nu is je workspace binnen je samenwerking automatisch gekoppeld met HU Research Drive en kun je bestanden er af halen en er weer op terug zetten. 
+Vanaf nu is je workspace binnen je collaboration automatisch gekoppeld met HU Research Drive en kun je bestanden er af halen en er weer op terug zetten. 
 
-Uitgebreide uitleg hoe je Research Drive koppelt vind je [in de documentatie van SURF](https://servicedesk.surfsara.nl/wiki/display/WIKI/Connect+Research+Drive)
+Uitgebreide uitleg hoe je Research Drive koppelt vind je [in de documentatie van SURF](https://servicedesk.surfsara.nl/wiki/display/WIKI/Connect+Research+Drive).

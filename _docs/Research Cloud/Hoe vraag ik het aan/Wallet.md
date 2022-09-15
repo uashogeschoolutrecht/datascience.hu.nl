@@ -7,8 +7,8 @@ nav_order: 2
 ---
 
 ## Wallet
-### Wat is een wallet?
-Wallets zijn het middel waarmee je je workspace op HU Research Cloud financiert. ‘Wallet’ is de Research Cloud term voor een bestaand budget. Het kan zijn dat je een budget hebt verkregen via een E-infra aanvraag of via een SURF contract. De gebruiker / onderzoeker kan dit budget gebruiken voor het laten draaien van een workspace. 
+
+Met behulp van wallets financier je je workspace op Research Cloud. ‘Wallet’ is de Research Cloud term voor een bestaand budget. Het kan zijn dat je een budget hebt verkregen via een e-infra aanvraag of via een SURF contract. De gebruiker / onderzoeker kan dit budget gebruiken voor het laten draaien van een workspace. 
 
 ### Voor wie? 
 Een wallet is persoonlijk. Iedere gebruiker moet dit aanvragen na de eerste keer inloggen op Research Cloud. 
@@ -26,7 +26,7 @@ Vul de aanvraag op de volgende manier in:
 ![](/assets/how-wallet-2.png)
 
 -   **Subtitle:** vul hier een naam in voor de wallet, dit kun je zelf bepalen.
--   **Existing Contract:** hier vul je het E-infra nummer in waaraan je de wallet wil koppelen, dit contract moet hiervoor dus al afgesloten zijn.
+-   **Existing Contract:** hier vul je het e-infra nummer in waaraan je de wallet wil koppelen (dit contract) moet hiervoor dus al afgesloten zijn.
 -   **Remarks:** hier kun je eventuele opmerkingen plaatsten.
 
 Als onderzoeker kan je meerdere wallets aanvragen. Deze zijn doorgaans bedoeld voor verschillende projecten.

@@ -6,10 +6,9 @@ grand_parent: Research Cloud
 nav_order: 2
 ---
 
-# Toegang met Time Based Password
+## Toegang met Time Based Password
 
-Het inloggen op een workspace met een Web UI (zoals Jupyter of RStudio) gebeurt bij voorkeur met een Time-Based One Time Password (TOTP). Hiervoor is het nodig om een authenticator te installeren zoals ‘microsoft authenticator’ of ‘Last Pass’. Op deze wijze kan er eenvoudige wijze toegang verleend worden tot de applicatie.
-
+Het inloggen op een workspace met een Web UI (zoals Jupyter of RStudio) gebeurt bij voorkeur met een Time-Based One Time Password (TOTP). Hiervoor is het nodig om een authenticator te installeren zoals ‘Microsoft authenticator’ of ‘Last Pass’.
 
 
 Om deze login mogelijkheid te kunnen gebruiken, stel je het tijdgebaseerde wachtwoord in door in te loggen op de Research Cloud portal ([https://portal.live.surfresearchcloud.nl/](https://portal.live.surfresearchcloud.nl/)).
@@ -18,7 +17,7 @@ Om deze login mogelijkheid te kunnen gebruiken, stel je het tijdgebaseerde wacht
 
 -   Wanneer TOTP nog niet ingesteld is, kan er geklikt worden op ‘Time based password not set, click to set’.
 
-    (Een vereiste is dat een van de genoemde authenticatie apps geïnstalleerd staat op de mobiele telefoon en scan een van de qr-codes vanuit de app zoals omschreven in de stappen.)
+    (Een vereiste is dat een van de genoemde authenticatie apps geïnstalleerd staat op de mobiele telefoon. Scan een van de qr-codes vanuit de app zoals omschreven in de stappen.)
 
 -   Log in bij een workspace door te klikken op: ACCESS
 

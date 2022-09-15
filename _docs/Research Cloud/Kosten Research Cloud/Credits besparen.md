@@ -6,7 +6,7 @@ grand_parent: Research Cloud
 ---
 
 ## Credits besparen
-Door bewust “pauzeren” aan te zetten kun je credits besparen. Klap de workspace uit en klik op ‘pause’ om de omgeving op non-actief te zetten wanneer de omgeving niet gebruikt wordt:
+Door bewust 'Pauzeren' aan te zetten kun je credits besparen. Klap de workspace uit en klik op ‘PAUSE’ om de omgeving op non-actief te zetten wanneer de omgeving niet gebruikt wordt:
  
 ![](/assets/how-workspace-7.png)
 
