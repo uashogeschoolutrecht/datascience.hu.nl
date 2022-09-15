@@ -7,7 +7,7 @@ has_children: false
 
 ## RStudio Connect
 
-RStudio Connect is een publicatieplatform voor gemaakt werk in R en Python. Met RStudio Connect kan je het volgende op één handige plek delen:
+RStudio Connect is een publicatieplatform voor werk gemaakt in R en Python. Met RStudio Connect kan je het volgende op één handige plek delen:
 
 -   Shiny applicaties
 -   R Markdown reports
