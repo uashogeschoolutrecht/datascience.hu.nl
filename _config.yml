@@ -7,7 +7,7 @@ aux_links:
   "HU Docs on GitHub":
     - "//github.com/uashogeschoolutrecht/docs-hpc"
 
-url: "https://github.com/uashogeschoolutrecht/docs-hpc"
+url: "https://github.com/uashogeschoolutrecht/"
 # Footer content 
 # appears at the bottom of every page's main content
 footer_content: "CC BY-NC 4.0 Hogeschool Utrecht."
