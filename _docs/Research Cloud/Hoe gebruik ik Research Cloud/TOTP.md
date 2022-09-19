@@ -21,7 +21,7 @@ Om deze login mogelijkheid te kunnen gebruiken, stel je het tijdgebaseerde wacht
 
 -   Log in bij een workspace door te klikken op: ACCESS
 
-    ![](/assets/how-workspace-6.png)
+    ![]({{ "/assets/how-workspace-6.png" | relative_url }})
     
     Log in met gebruikersnaam (te vinden onder ‘My profile’) en de tijdelijke zes-cijferige code (uit de mobiele app) om toegang te krijgen tot de applicatie.
 

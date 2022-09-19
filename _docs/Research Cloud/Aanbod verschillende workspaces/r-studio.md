@@ -11,7 +11,7 @@ Met RStudio Server kun je via het web analyses in R draaien. Dat betekent dat je
 
 Tijdens het opstarten in HU Research Cloud bij stap 6 , krijg je een extra optie om een parameter in te voeren voor boot_volume_size, dit is de Operating System disk en kun je op bijvoorbeeld 50 GB zetten. 
 
-![](/assets/rstudio.png)
+![]({{ "/assets/rstudio.png" | relative_url }})
 
 
 

@@ -21,19 +21,19 @@ Ga naar: [https://servicedesk.surfsara.nl](https://servicedesk.surfsara.nl/)
 
 -   Klik op de knop ‘Use your SURFconext account’.
 
-![](/assets/how-e-infra-1.png)
+![]({{ "/assets/how-e-infra-1.png" | relative_url }})
 
 -   Controleer op het volgende scherm uw persoonsnaam en e-mailadres en klik op de blauwe knop ‘Doorgaan naar Servicedesk SURFsara’.
 
-![](/assets/how-e-infra-2.png)
+![]({{ "/assets/how-e-infra-2.png" | relative_url }})
 
 -   Klik in het volgende scherm op de knop ‘Small Applications’.
 
-![](/assets/how-e-infra-3.png)
+![]({{ "/assets/how-e-infra-3.png" | relative_url }})
 
 -   Vul het volgende aanvraagformulier zo volledig mogelijk in.
 
-![](/assets/how-e-infra-4.png)
+![]({{ "/assets/how-e-infra-4.png" | relative_url }})
 
 &nbsp;
 ### Extra (HU specifieke) aanwijzingen ten behoeve van het invullen van de e-infra aanvraag 

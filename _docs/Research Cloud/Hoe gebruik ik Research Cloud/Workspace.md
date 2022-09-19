@@ -21,7 +21,7 @@ Login en klik op ‘Create New’ onder ‘Create new workspace’ of het pluste
 #### STAP 1, Application
 Kies een voorgeconfigureerde workspace, zoals bijv. **HU JupyterHub**.
 
-![](/assets/how-workspace-2.png)
+![]({{ "/assets/how-workspace-2.png" | relative_url }})
 
 - Klik op ‘CHOOSE’.
 
@@ -49,13 +49,13 @@ Hier kunnen ‘storage’ en een 'IP-adres' worden gekoppeld.
 
 Wanneer het nodig is om een van deze te koppelen, maak in het dashboard van Research Cloud (waar ook de workspace aangemaakt kon worden) ‘storage’ of een ‘floating IP’ aan. Klik hiervoor op het plusteken onder het juiste kopje:
 
-![](/assets/how-workspace-3.png)
+![]({{ "/assets/how-workspace-3.png" | relative_url }})
 
 -   **Storage**
 
     Alle lokale opslag van een workspace is weg als de workspace wordt verwijderd. Om te zorgen dat data beschikbaar blijft binnen Research Cloud kun je ‘persistent storage’ aanmaken:
 
-    ![](/assets/how-workspace-4.png)
+    ![]({{ "/assets/how-workspace-4.png" | relative_url }})
 
     Deze opslag kun je zien als een soort digitale usb stick die je kunt koppelen aan een workspace. Deze opslag maak je aan voordat je een workspace start. Tijdens het starten van een workspace koppel je de opslag. Meer informatie hierover is te vinden in de [documentatie van SURF](https://servicedesk.surfsara.nl/wiki/display/WIKI/SURF+HPC+Storage). 
 

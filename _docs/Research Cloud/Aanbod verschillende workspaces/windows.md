@@ -18,4 +18,4 @@ Je krijgt na het starten van de workspace een Windows omgeving die er hetzelfde 
 
 Dit item wordt niet door de HU onderhouden maar kan voor de onderzoeker, gezien de voordelen, een goede uitkomst bieden.
 
-![](/assets/windows.png)
+![]({{ "/assets/windows.png" | relative_url }})

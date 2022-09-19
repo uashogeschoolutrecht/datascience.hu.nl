@@ -10,4 +10,4 @@ JupyterHUB is een webapplicatie waarmee je documenten, oftewel notebooks, kunt m
 
 Tijdens het opstarten bij stap 6 krijg je een extra optie om een parameter in te voeren voor boot_volume_size, dit is de Operating System disk en kun je op bijvoorbeeld 50 GB zetten. 
 
-![](/assets/jupyter.png)
+![]({{ "/assets/jupyter.png" | relative_url }})

@@ -19,11 +19,11 @@ Een wallet is persoonlijk. Iedere gebruiker moet dit aanvragen na de eerste keer
 Bezoek de Research Cloud portal: [https://portal.live.surfresearchcloud.nl/](https://portal.live.surfresearchcloud.nl/)
 Login en klik op ‘REQUEST’ onder ‘Request a new wallet'
 
-![](/assets/how-wallet-1.png)
+![]({{ "/assets/how-wallet-1.png" | relative_url }})
 
 Vul de aanvraag op de volgende manier in:
 
-![](/assets/how-wallet-2.png)
+![]({{ "/assets/how-wallet-2.png" | relative_url }})
 
 -   **Subtitle:** vul hier een naam in voor de wallet, dit kun je zelf bepalen.
 -   **Existing Contract:** hier vul je het e-infra nummer in waaraan je de wallet wil koppelen (dit contract) moet hiervoor dus al afgesloten zijn.

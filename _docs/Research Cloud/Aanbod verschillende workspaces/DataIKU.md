@@ -19,4 +19,4 @@ Het all-in-one analytics en Data Science platform omvat:
 
 *   Je kunt machine learning technologieën gebruiken om modellen te ontwikkelen en optimaliseren in zowel Python als R.
 
-![](/assets/dataiku.png)
+![]({{ "/assets/dataiku.png" | relative_url }})

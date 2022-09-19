@@ -19,4 +19,4 @@ RStudio Connect is een publicatieplatform voor werk gemaakt in R en Python. Met 
 
 Toegang tot RStudio Connect: <a href="https://rstudio-connect.hu.nl/connect/" class="uri">https://rstudio-connect.hu.nl/connect/</a>
 
-![](/assets/rsconnect.png)
+![]({{ "/assets/rsconnect.png" | relative_url }})
