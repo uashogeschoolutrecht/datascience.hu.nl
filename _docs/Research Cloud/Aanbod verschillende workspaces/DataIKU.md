@@ -25,6 +25,7 @@ Het all-in-one analytics en Data Science platform omvat:
 ### Gebruik
 
 Na het starten van je workspace kom je eerst op een aanmeldpagina terecht. Daar doorloop je de volgende stappen:
+
 **Stap 1:**
 
 Als je beschikt over een licentie kun je die hier invullen, als je die niet hebt kies je voor nee. 
