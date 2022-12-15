@@ -24,8 +24,7 @@ Het all-in-one analytics en Data Science platform omvat:
 
 ### Gebruik
 
-Na het starten van je workspace kom je voor de eerste keer op een aanmeld pagina. Doorloop deze stappen.
-
+Na het starten van je workspace kom je eerst op een aanmeldpagina terecht. Daar doorloop je de volgende stappen:
 **Stap 1:**
 
 Als je beschikt over een licentie kun je die hier invullen, als je die niet hebt kies je voor nee. 
@@ -38,7 +37,7 @@ Je kunt nu inloggen op DataIKU DSS met de volgende gegevens:
 - gebruikersnaam: admin
 - wachtwoord: admin
 
-Belangrijk: Verander je wachtwoord direct na het inloggen. Ga hiervor naar administration >  security > klik op admin
+Belangrijk: Verander je wachtwoord direct na het inloggen. Ga hiervoor naar administration >  security > klik op admin
 
 **Stap 4:**
 [lees de quickstart](https://knowledge.dataiku.com/latest/courses/basics/create-project/create-your-project.html)
