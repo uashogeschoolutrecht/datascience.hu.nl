@@ -66,6 +66,7 @@ jobs:
         # Outputs to the './_site' directory by default
         run: |
           cd pr-build
+          bundle install
           bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}"
           cd ..
         env:
