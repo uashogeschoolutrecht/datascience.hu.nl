@@ -76,7 +76,7 @@ jobs:
       #  uses: actions/upload-pages-artifact@v1
 
       - name: Checkout temporary deployment target repo
-        uses: actions/checkout@3
+        uses: actions/checkout@v3
         with:
           repository: uashogeschoolutrecht/${{ env.PR_REPO_NAME }}
           path: 'pr-deploy'
