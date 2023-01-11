@@ -85,6 +85,7 @@ jobs:
 
       - name: Push files to target
         run: |
+          mkdir pr-deploy/_site
           cp -r pr-build/_site/* pr-deploy/_site
           cd pr-deploy
           git add .
