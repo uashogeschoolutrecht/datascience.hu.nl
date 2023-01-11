@@ -12,12 +12,17 @@ env:
   PR_REPO_NAME: docs-hpc-pr-${{ github.event.pull_request.node_id }}
 
 jobs:
-  create-page-host:
+  create-repository:
     runs-on: ubuntu-latest
+    name: Creating Organization Repository
     steps:
-      - name: Create new repository for temporary deployment
-        uses: octobay/create-repository-action@v1
+      - name: Use Node.js
+        uses: actions/setup-node@v2
+      - name: Creating GitHub Organization Repository
+        uses: repo-ctrl/create-repo-action@main 
+        id: create-repo
         with:
-          name: ${{ env.PR_REPO_NAME }}
-          org: octobay
-          access-token: ${{ secrets.PRIVE_ACCESS_TOKEN_FOR_PR_ACTION }}
+          repo-name: '${{ env.PR_REPO_NAME }}'
+          org-admin-token: '${{ secrets.PRIVE_ACCESS_TOKEN_FOR_PR_ACTION }}'
+      - name: Log URL to the repo
+        run: echo "The new repo is ${{ steps.create-repo.outputs.repo-url }}"          
