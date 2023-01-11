@@ -7,16 +7,17 @@ on:
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:  
 
+
+env:
+  PR_REPO_NAME: docs-hpc-pr-${{ github.event.pull_request.node_id }}
+
 jobs:
-  build:
-
+  create-page-host:
     runs-on: ubuntu-latest
-
     steps:
-    - name: Testje om een nieuw repo aan te maken
-      run: |
-        touch README.md
-        git add .
-        git commit -m "first commit"
-        git remote add origin git@github.com:uashogeschoolutrecht/docs-hpc-pr-001.git
-        git push -u origin master
+      - name: Create new repository for temporary deployment
+        uses: octobay/create-repository-action@v1
+        with:
+          name: ${{ env.PR_REPO_NAME }}
+          org: octobay
+          access-token: ${{ secrets.PRIVE_ACCESS_TOKEN_FOR_PR_ACTION }}
