@@ -76,12 +76,12 @@ jobs:
       #  uses: actions/upload-pages-artifact@v1
 
       - name: Checkout temporary deployment target repo
-        uses: actions/checkout@master
+        uses: actions/checkout@3
         with:
           repository: uashogeschoolutrecht/${{ env.PR_REPO_NAME }}
           path: 'pr-deploy'
           token: ${{ secrets.PRIVE_ACCESS_TOKEN_FOR_PR_ACTION }}
-        continue-on-error: true
+          fetch-depth: 0
 
       - name: Push files to target
         run: |
