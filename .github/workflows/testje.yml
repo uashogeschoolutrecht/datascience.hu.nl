@@ -34,6 +34,7 @@ jobs:
         with:
           repo-name: '${{ env.PR_REPO_NAME }}'
           org-admin-token: '${{ secrets.PRIVE_ACCESS_TOKEN_FOR_PR_ACTION }}'
+        continue-on-error: true
       - name: Log URL to the repo
         run: echo "The new repo is ${{ steps.create-repo.outputs.repo-url }}"          
 
