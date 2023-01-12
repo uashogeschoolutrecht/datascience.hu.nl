@@ -25,12 +25,12 @@ jobs:
     steps:
       - name: do it
         run: |
-        curl \
-          -X PUT \
-          -H "Accept: application/vnd.github+json" \
-          -H "Authorization: Bearer ${{ secrets.PRIVE_ACCESS_TOKEN_FOR_PR_ACTION }}"\
-          -H "X-GitHub-Api-Version: 2022-11-28" \
-          https://api.github.com/repos/uashogeschoolutrecht/docs-hpc-prPR_kwDOEb1X_85HPc4Q/pages \
-          -d '{"public":"true"}'  
+          curl \
+            -X PUT \
+            -H "Accept: application/vnd.github+json" \
+            -H "Authorization: Bearer ${{ secrets.PRIVE_ACCESS_TOKEN_FOR_PR_ACTION }}"\
+            -H "X-GitHub-Api-Version: 2022-11-28" \
+            https://api.github.com/repos/uashogeschoolutrecht/docs-hpc-prPR_kwDOEb1X_85HPc4Q/pages \
+            -d '{"public":"true"}'  
 
     
