@@ -104,7 +104,7 @@ jobs:
             -d '{"public":true}'
           
       - name: Place comment in pull request with link to page
-      - uses: actions/github-script@v6
+        uses: actions/github-script@v6
         with:
           github-token: ${{ secrets.PRIVE_ACCESS_TOKEN_FOR_PR_ACTION }}
           script: |
