@@ -85,8 +85,9 @@ jobs:
 
       - name: Push files to target
         run: |
-          mkdir pr-deploy/_site
-          cp -r pr-build/_site/* pr-deploy/_site
+          #mkdir pr-deploy/_site
+          #cp -r pr-build/_site/* pr-deploy/_site
+          cp -r pr-build/_site/* pr-deploy
           cd pr-deploy
           git add .
           git commit -m $GITHUB_SHA
