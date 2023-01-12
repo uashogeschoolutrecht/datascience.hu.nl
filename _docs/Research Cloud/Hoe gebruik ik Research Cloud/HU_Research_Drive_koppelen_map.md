@@ -18,7 +18,7 @@ Dit kan in twee stappen: een aanmaken van een link op een folder in HU Research 
 
 **Stap 1: Aanmaken publieke link op map** 
 
-**Let Op:** Het kan zijn dat je niet genoeg rechten hebt om stap 1 uit te voeren. Kan je geen publieke link aanmaken, meld je dan bij een van de [datastewards](https://hogeschoolutrecht.topdesk.net/tas/public/ssp/content/detail/knowledgeitem?unid=9be5b6e6fb774ad896cffb2b7e454053){:target="_blank"}, die helpt je verder. Een datasteward heeft rechten om de link aan te maken.
+**Let Op:** Waarschijnlijk heb je niet genoeg rechten om stap 1 uit te voeren. Meld je bij een van de [datastewards](https://hogeschoolutrecht.topdesk.net/tas/public/ssp/content/detail/knowledgeitem?unid=9be5b6e6fb774ad896cffb2b7e454053){:target="_blank"}, om de publieke link aan te laten maken. Een datasteward heeft rechten om de link aan te maken.
 
 -   Login in op HU Research Drive, om daar een publieke link aan te maken.
 
