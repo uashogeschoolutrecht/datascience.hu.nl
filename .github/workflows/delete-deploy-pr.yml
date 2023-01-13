@@ -14,8 +14,19 @@ jobs:
   delete-page-host:
     runs-on: ubuntu-latest
     steps:
+      # old method
+      #- name: Delete repository for temporary deployment
+      #  uses: octobay/delete-repository-action@v1
+      #  with:
+      #    name: uashogeschoolutrecht/${{ env.PR_REPO_NAME }}
+      #    access-token: ${{ secrets.PRIVE_ACCESS_TOKEN_FOR_PR_ACTION }}
+
       - name: Delete repository for temporary deployment
-        uses: octobay/delete-repository-action@v1
+        uses: actions/github-script@v6
         with:
-          name: octobay/${{ env.PR_REPO_NAME }}
-          access-token: ${{ secrets.PRIVE_ACCESS_TOKEN_FOR_PR_ACTION }}
+          github-token: ${{ secrets.PRIVE_ACCESS_TOKEN_FOR_PR_ACTION }}
+          script: |
+            github.rest.repos.delete({
+              owner: context.repo.owner,
+              repo: ${{ env.PR_REPO_NAME }},
+            });          
