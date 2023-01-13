@@ -96,7 +96,7 @@ jobs:
       # First sleep, because the pr repo has to build the pages before it can be made public
       - name: Make github page public
         run: |
-          run: sleep 40s
+          sleep 40s
           curl \
             -X PUT \
             -H "Accept: application/vnd.github+json" \
