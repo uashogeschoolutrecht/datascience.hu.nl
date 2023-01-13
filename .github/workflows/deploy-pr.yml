@@ -9,7 +9,6 @@ on:
 
 env:
   PR_REPO_NAME: datascience-pr${{ github.event.pull_request.node_id }}
-  PR_GH_PAGE_URL: https://uashogeschoolutrecht.github.io/datascience-pr${{ github.event.pull_request.node_id }}
 
 # Sets permissions of the GITHUB_TOKEN to allow deployment to GitHub Pages
 permissions:
@@ -69,7 +68,7 @@ jobs:
         run: |
           cd pr-build
           bundle install
-          bundle exec jekyll build --baseurl "${{ env.PR_GH_PAGE_URL }}"
+          bundle exec jekyll build --baseurl "${{ env.PR_REPO_NAME }}"
           cd ..
         env:
           JEKYLL_ENV: production
@@ -115,6 +114,6 @@ jobs:
               issue_number: context.issue.number,
               owner: context.repo.owner,
               repo: context.repo.repo,
-              body: 'link to page: ${{ env.PR_GH_PAGE_URL }}'
+              body: 'link to page: https://uashogeschoolutrecht.github.io/${{ env.PR_REPO_NAME }}'
             })         
     
