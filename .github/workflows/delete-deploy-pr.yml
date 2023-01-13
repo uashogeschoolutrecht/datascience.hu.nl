@@ -28,5 +28,5 @@ jobs:
           script: |
             github.rest.repos.delete({
               owner: context.repo.owner,
-              repo: ${{ env.PR_REPO_NAME }},
+              repo: '${{ env.PR_REPO_NAME }}',
             });          
