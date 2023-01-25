@@ -7,18 +7,20 @@ nav_order: 3
 ---
 
 ## Koppelen met HU Research Drive
-Bij het verwijderen van een workspace blijft niets achter. Ook geen data. [Eerder]({{ site.baseurl }}{% link _docs/Research Cloud/Hoe gebruik ik Research Cloud/Workspace.md %}) zagen we (onder het kopje 'Storage') hoe we externe opslag kunnen toevoegen aan de workspace om data te laten bestaan.  
+Bij het verwijderen van een workspace blijft niets achter. Ook geen data. [Eerder]({{ site.baseurl }}{% link _docs/Research Cloud/Hoe gebruik ik Research Cloud/Workspace.md %}) zagen we (onder het kopje 'Storage') hoe we externe opslag kunnen toevoegen aan de workspace om data te behouden.  
 
 Het is ook mogelijk om HU Research Drive te koppelen aan een collaboration in Research Cloud zodat je toegang hebt tot al je (gedeelde) onderzoeksdata op iedere workspace die je start onder de collaboration.
 
-### Research Drive koppelen aan een collaboration in Research Cloud 
-Dit kan in twee stappen: een aanmaken van een link op een folder in HU Research Drive en vervolgens die link invoeren in Research Cloud. 
+### Research Drive koppelen aan een collaboration in Research Cloud
+Het koppelen van Research Drive aan een collaboration in Research Cloud doe je in twee stappen:
+1. Als eerste maak je een link aan op een folder in HU Research Drive.
+2. Vervolgens voer je de link in in Research Cloud.
 
 ---
 
-**Stap 1: Aanmaken publieke link op map** 
+**Stap 1: Aanmaken publieke link naar folder op Research Drive** 
 
-**Let Op:** Waarschijnlijk heb je niet genoeg rechten om stap 1 uit te voeren. Meld je bij een van de [datastewards](https://hogeschoolutrecht.topdesk.net/tas/public/ssp/content/detail/knowledgeitem?unid=9be5b6e6fb774ad896cffb2b7e454053){:target="_blank"}, om de publieke link aan te laten maken. Een datasteward heeft rechten om de link aan te maken.
+**Let Op:** Waarschijnlijk heb je niet genoeg rechten om stap 1 uit te voeren. Meld je bij een van de [datastewards](https://bibliotheek.hu.nl/onderzoekers/algemeen-en-ontwikkelen-van-onderzoek/ondersteuning-datastewards-team-do-en-software/){:target="_blank"}, om de publieke link aan te laten maken. Een datasteward heeft rechten om de link aan te maken.
 
 -   Login in op HU Research Drive, om daar een publieke link aan te maken.
 
@@ -39,7 +41,7 @@ Dit kan in twee stappen: een aanmaken van een link op een folder in HU Research 
     
 -   Kopieer nu de link naar je klembord door op het ![]({{ "/assets/research_drive_link/clipboard_icon.jpg" | relative_url }}) te klikken. (Deze is te vinden in het detailmenu rechts van de net aangemaakte link)
 
--   Open nu in windows programma `notepad` en/of `kladblok` (windowstoest + R, notepad.exe, enter) en plak hierin de zojuist gekopieerde url. De url ziet er ongeveer zo uit: https://hu.data.surfsara.nl/index.php/s/7vDaVGWk1KwDA. Het einde vam de url `7vDaVGWk1KwDA` heb je nodig in de volgende stap en is de gebruikersnaam / username.
+-   Open nu in windows programma `notepad` en/of `kladblok` (windowstoest + R, notepad.exe, enter) en plak hierin de zojuist gekopieerde url. De url ziet er ongeveer zo uit: https://hu.data.surfsara.nl/index.php/s/7vDaVGWk1KwDA. Het einde van de url `7vDaVGWk1KwDA` heb je nodig in de volgende stap en is de gebruikersnaam / username.
 
 [Uitgebreide uitleg hoe je een publieke link aanmaakt vind je in de documentatie van SURF](https://wiki.surfnet.nl/display/RDRIVE/Share+via+a+public+link)
 
@@ -50,18 +52,18 @@ Dit kan in twee stappen: een aanmaken van een link op een folder in HU Research 
     - Klik op `Profile` (zit in het menu boven)
     - Open het submenu van de betreffende collaboration door op de regel te klikken
     - Klik op `Storage`
-    - Klik op `Research Drive not Link, click to link` om het popup menu te openen
+    - Klik op `Research Drive not Linked, click to link` om het popup menu te openen
     ![]({{ "/assets/research_drive_link/open_collaboration_research_drive_link_menu.jpg" | relative_url }})
 
 -   Vul de velden in voor de Research Drive link:
-    - Vink uit `Use SURF Community, non-branded, Research Drive`, zodat het veld eronder ingeschakeld wordt.
+    - Vink uit: `Use SURF Community, non-branded, Research Drive`, zodat het veld eronder ingeschakeld wordt.
     - Vul in bij het veld url: `https://hu.data.surfsara.nl/public.php/webdav`.
     - Vul in bij het veld `set username`, de gebruikersnaam / username uit het kladblok of de gebruikersnaam die je eventueel van de datasteward hebt ontvangen. In ons voorbeeld is dat `7vDaVGWk1KwDA`.
-    - Vul in bij het veld `set WebDav app password`, het wachtwoord dat in stap 1 is ingevoerd of het wachtwoord dat door de datasteward verkregen.
+    - Vul in bij het veld `set WebDav app password`, het wachtwoord dat in stap 1 is ingevoerd of het wachtwoord dat door de datasteward is verkregen.
     ![]({{ "/assets/research_drive_link/research_drive_link_popup_menu.jpg" | relative_url }})
 
 -   Klik op `Save` om HU Research Drive te koppelen aan de collaboration.
 
-Vanaf nu is je workspace binnen je collaboration automatisch gekoppeld met HU Research Drive en kun je bestanden er af halen en er weer op terug zetten. 
+Vanaf nu is je workspace binnen je collaboration automatisch gekoppeld met HU Research Drive, wijzging worden automatisch gesynchroniseerd.
 
 Uitgebreide uitleg hoe je Research Drive koppelt vind je [in de documentatie van SURF](https://servicedesk.surfsara.nl/wiki/display/WIKI/Connect+Research+Drive).
