@@ -27,14 +27,13 @@ Het all-in-one analytics en Data Science platform omvat:
 Na het starten van je workspace kom je eerst op een aanmeldpagina terecht. Daar doorloop je de volgende stappen:
 
 **Stap 1:**
-
-Als je beschikt over een licentie kun je die hier invullen, als je die niet hebt kies je voor nee. 
+Als je beschikt over een licentie kun je die hier invullen, als je die niet hebt kies je voor 'nee'. 
 
 **Stap 2:**
-Hier kies je voor de gratis versie, te gebruiken door één gebruiker. Of een proefversie van twee weken van de Enterprise versie. Vul ook je gegevens in en ga akkoord met de gebruikersvoorwaarden. 
+Kies voor de gratis versie, te gebruiken door één gebruiker óf een proefversie van twee weken van de Enterprise versie voor meerdere personen. Vul ook je gegevens in en ga akkoord met de gebruikersvoorwaarden. 
 
 **Stap 3:**
-Je kunt nu inloggen op DataIKU DSS met de volgende gegevens: 
+Je kunt nu inloggen op Dataiku DSS met de volgende gegevens: 
 - gebruikersnaam: admin
 - wachtwoord: admin
 
