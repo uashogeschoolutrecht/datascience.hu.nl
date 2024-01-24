@@ -11,7 +11,7 @@ SURF Research Access Management (SRAM) is een beheerapplicatie om onderzoekers s
 
 ### Wie / Rollen
 Per onderzoek is er een medewerker die de collaboration beheert.
-Om gebruik te kunnen maken van de workspaces van de HU en de extra ondersteuning van team Digitale Onderzoeksomgeving is het aan te raden om een medewerker van dit team (Digitale Onderzoeksomgeving) admin rechten te geven binnen de collaboration. 
+Om gebruik te kunnen maken van de workspaces van de HU en de extra ondersteuning van Team Research Support & IT is het aan te raden om een medewerker van dit team (Research Support & IT) admin rechten te geven binnen de collaboration. 
 SRAM kent twee rollen: beheerder en onderzoeker. Hieronder per rol een toelichting:
 
 #### **Beheerders** van collaborations in SRAM kunnen:
@@ -30,7 +30,7 @@ SRAM kent twee rollen: beheerder en onderzoeker. Hieronder per rol een toelichti
 
 
 ### Toegang krijgen tot een collaboration in SRAM
-Door de beheerder van SRAM (lid van team Digitale Onderzoeksomgeving) wordt de onderzoeker voor een collaboration uitgenodigd als Admin (CO). De onderzoeker (Admin) kan hier mensen aan toevoegen. 
+Door de beheerder van SRAM (lid van Team Research Support & IT) wordt de onderzoeker voor een collaboration uitgenodigd als Admin (CO). De onderzoeker (Admin) kan hier mensen aan toevoegen. 
 
 Zodra ze de uitnodiging hebben aanvaard en ingelogd zijn, worden automatisch accounts aangemaakt in de systemen waar de samenwerking (CO) toegang toe heeft en kan de onderzoeker met de systemen werken.
 

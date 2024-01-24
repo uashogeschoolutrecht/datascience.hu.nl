@@ -78,7 +78,7 @@ mocht je gebruik willen maken van videokaart uren voor bijvoorbeeld deeplearning
 hoeveel data wil je opslaan, dit is een extra opslagmogelijkheid die blijft bestaan ook al is je workspace verwijderd.
 
 -   **HPC Cloud: how many consultancy hours? (optional):**
-0, team Digitale Onderzoeksomgeving zal je ondersteunen.
+0, Team Research Support & IT zal je ondersteunen.
 
 -   **Tape – how much offline storage in Terabyte? (Data Archive and/or dCache) (optional):**
 de HU heeft voor het archiveren van data andere oplossingen beschikbaar, zoals HU Research Drive. Met vragen kun je terecht bij de datasteward van jouw kenniscentrum.
@@ -86,4 +86,4 @@ de HU heeft voor het archiveren van data andere oplossingen beschikbaar, zoals H
 -   **Research Drive: Do you need storage in Research Drive? (Max. 5 TB) (optional):**
 dit is niet nodig, dus HU heeft een eigen Resarch Drive voor onderzoeksdata.
 
-Heb je nog vragen bij het invullen van de e-infra aanvraag, neem dan contact op met [Team Digitale Onderzoeksomgeving](mailto:onderzoeksupport@hu.nl).
+Heb je nog vragen bij het invullen van de e-infra aanvraag, neem dan contact op met [Team Research Support & IT](mailto:onderzoeksupport@hu.nl).

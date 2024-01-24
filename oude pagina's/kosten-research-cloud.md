@@ -44,5 +44,5 @@ Er is ook een omrekenfactor van credit naar dollar om af te rekenen met Azure. D
 
 
 ## Beheer / support
-Alvorens je zelf credits inkoopt voor het gebruik van HU Research Cloud kan je een adviesgesprek aanvragen bij team Digitale Onderzoeksomgeving via [ondersupport@hu.nl](mailto:onderzoeksupport@hu.nl). 
-Je ontvangt van SURF een offerte en een Service Level Agreement. Indien wenselijk kan team Digitale Onderzoeksomgeving ondersteuning bieden bij het inrichten van de virtuele machines. Bespreek dit tijdens het adviesgesprek, ook om te kijken welke eventuele kosten dit met zich meebrengt. 
+Alvorens je zelf credits inkoopt voor het gebruik van HU Research Cloud kan je een adviesgesprek aanvragen bij Team Research Support & IT via [ondersupport@hu.nl](mailto:onderzoeksupport@hu.nl). 
+Je ontvangt van SURF een offerte en een Service Level Agreement. Indien wenselijk kan Team Research Support & IT ondersteuning bieden bij het inrichten van de virtuele machines. Bespreek dit tijdens het adviesgesprek, ook om te kijken welke eventuele kosten dit met zich meebrengt. 

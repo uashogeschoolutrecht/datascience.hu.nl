@@ -1,7 +1,7 @@
 <!-- 
 ## Toegang tot HU Research Cloud
 
-Vraag [hier](https://hogeschoolutrecht.topdesk.net/tas/public/ssp/content/serviceflow?unid=aa381ea2c4cf4a53ab1bfa94ecc05793&from=fd3b3881-eab9-4d6e-9fcd-90b3930f8f29&openedFromService=true) je eigen virtuele onderzoeksomgeving aan. Team Digitale Onderzoeksomgeving helpt je bij alle stappen. 
+Vraag [hier](https://hogeschoolutrecht.topdesk.net/tas/public/ssp/content/serviceflow?unid=aa381ea2c4cf4a53ab1bfa94ecc05793&from=fd3b3881-eab9-4d6e-9fcd-90b3930f8f29&openedFromService=true) je eigen virtuele onderzoeksomgeving aan. Team Research Support & IT helpt je bij alle stappen. 
 
 ## Snelle links tot systemen in de Cloud
 

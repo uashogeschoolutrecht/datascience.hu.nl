@@ -9,7 +9,7 @@ nav_order: 1
 ## Workspace
 Een workspace kan het best beschouwd worden als een eigen virtuele machine (VM) of applicatie (virtuele onderzoeksomgeving). 
 
-Team Digitale Onderzoeksomgeving biedt de onderzoeker voor geconfigureerde workspaces die als gebruiksklare softwareoplossing te gebruiken zijn. Binnen het Research Cloud [portaal](https://portal.live.surfresearchcloud.nl) vind je de verschillende workspaces die door de HU beschikbaar worden gesteld.
+Team Research Support & IT biedt de onderzoeker voor geconfigureerde workspaces die als gebruiksklare softwareoplossing te gebruiken zijn. Binnen het Research Cloud [portaal](https://portal.live.surfresearchcloud.nl) vind je de verschillende workspaces die door de HU beschikbaar worden gesteld.
 
 ### Workspace aanmaken
 
