@@ -7,7 +7,7 @@ nav_order: 4
 ---
 
 ## Kosten van Research Cloud
-Onderzoekers kunnen beperkte hoeveelheden rekentijd, datadiensten en support rechtstreeks aanvragen bij SURF wanneer zij onderzoeker zijn. Dit geldt voor cloud- en clustercomputing op HPC Cloud, Lisa, Nationale Supercomputer Snellius en Data Processing (Grid/Spider) en verloopt via NWO. 
+Onderzoekers kunnen beperkte hoeveelheden rekentijd, datadiensten en support rechtstreeks aanvragen bij SURF wanneer zij onderzoeker zijn. Dit geldt voor cloud- en clustercomputing op HPC Cloud, Nationale Supercomputer Snellius en Data Processing (Grid/Spider) en verloopt via NWO. 
 
 Je vraagt je rekentijd aan via een [e-infra]({{ site.baseurl }}{% link _docs/Research Cloud/Hoe vraag ik het aan/E-infra.md %}) aanvraag. Naast rekencapaciteit kan je ook nog tot max 160 uur consultancy aanvragen, bij het doen van je e-infra aanvraag.
 

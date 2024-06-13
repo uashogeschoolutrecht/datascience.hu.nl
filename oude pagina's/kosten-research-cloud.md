@@ -6,7 +6,7 @@ nav_order: 10
 ---
 
 ## Kosten HU Research Cloud
-Onderzoekers kunnen beperkte hoeveelheden rekentijd, datadiensten en support rechtstreeks aanvragen bij SURF wanneer zij een subsidie aanvraag toegekend hebben gekregen. Dit geldt voor cloud- en clustercomputing op HPC Cloud, Lisa, Nationale Supercomputer Snellius en Data Processing (Grid/Spider) en verloopt via NWO. Je vraagt [hier](https://servicedesk.surfsara.nl/jira/plugins/servlet/samlsso?redirectTo=%2Fservicedesk%2Fcustomer%2Fportal%2F1) je rekentijd aan via een e-infra. Naast het aanvragen van rekencapaciteit kan je ook nog tot max 160uur consultancy aanvragen bij het doen van je e-infra aanvraag.  
+Onderzoekers kunnen beperkte hoeveelheden rekentijd, datadiensten en support rechtstreeks aanvragen bij SURF wanneer zij een subsidie aanvraag toegekend hebben gekregen. Dit geldt voor cloud- en clustercomputing op HPC Cloud, Nationale Supercomputer Snellius en Data Processing (Grid/Spider) en verloopt via NWO. Je vraagt [hier](https://servicedesk.surfsara.nl/jira/plugins/servlet/samlsso?redirectTo=%2Fservicedesk%2Fcustomer%2Fportal%2F1) je rekentijd aan via een e-infra. Naast het aanvragen van rekencapaciteit kan je ook nog tot max 160uur consultancy aanvragen bij het doen van je e-infra aanvraag.  
 
 
 NWO geeft grants uit die gespecificeerd zijn in:
